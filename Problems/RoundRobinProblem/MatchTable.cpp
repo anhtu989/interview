@@ -100,3 +100,6 @@ void MatchTable(int k, int n, int **table)
 		begin *= 2;
 	}
 }
+
+
+# 新增功能代码
